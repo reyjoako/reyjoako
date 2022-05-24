@@ -12,7 +12,8 @@ STUFF:
 
 BIOHACKING 👽 :
 
--Dangerous things. A company that makes inserts to enhance human performance. How cool is that. https://dangerousthings.com
+-Dangerous things. A company that makes inserts to enhance human performance. How cool is that. https://dangerousthings.com}
+-THe biohacking bible. A bible of biohacking https://github.com/JonnyBanana/THE-BIOHACKING-BIBLE
 
 PYTHON: 🐍
 
