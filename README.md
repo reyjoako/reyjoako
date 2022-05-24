@@ -10,10 +10,13 @@ least explain or point in the right direction.
 
 STUFF:
 
-Biohacking
+BIOHACKING 👽 :
+
 -Dangerous things. A company that makes inserts to enhance human performance. How cool is that. https://dangerousthings.com
 
+PYTHON: 🐍
 
+-A free book for learning Data Science with python https://github.com/jakevdp/PythonDataScienceHandbook
 
 
 
