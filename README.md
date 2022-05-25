@@ -19,6 +19,9 @@ PYTHON: 🐍
 
 -A free book for learning Data Science with python https://github.com/jakevdp/PythonDataScienceHandbook
 
+INTERESTING STUFF:
+-Why is pot Illegal (racism) https://www.britannica.com/story/why-is-marijuana-illegal-in-the-us#:~:text=He%20believed%20that%20smoking%20pot,illegal%20across%20the%20United%20States.
+
 
 
 <!---
