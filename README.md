@@ -22,7 +22,10 @@ PYTHON: 🐍
 INTERESTING STUFF:
 -Why is pot Illegal (racism) https://www.britannica.com/story/why-is-marijuana-illegal-in-the-us#:~:text=He%20believed%20that%20smoking%20pot,illegal%20across%20the%20United%20States.
 
+FITNESS:
 
+-Work out plan for 12 weeks. I love it because it changes from week to week and its pretty well explained. 
+https://www.muscleandstrength.com/workouts/12-week-total-transformation-workout
 
 <!---
 reyjoako/reyjoako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
