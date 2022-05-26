@@ -27,6 +27,8 @@ FITNESS:
 -Work out plan for 12 weeks. I love it because it changes from week to week and its pretty well explained. 
 https://www.muscleandstrength.com/workouts/12-week-total-transformation-workout
 
+-Is it ok to work out on a fasting state? This article says yes, but take it with a grain of salt https://www.prospectmedical.com/resources/wellness-center/working-out-while-intermittent-fasting
+
 <!---
 reyjoako/reyjoako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
