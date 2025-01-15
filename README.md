@@ -32,7 +32,15 @@ https://www.muscleandstrength.com/workouts/12-week-total-transformation-workout
 -Is it ok to work out on a fasting state? This article says yes, but take it with a grain of salt https://www.prospectmedical.com/resources/wellness-center/working-out-while-intermittent-fasting
 
 -Workout for ketosis https://www.muscleandfitness.com/routine/workouts/workout-routines/keto-workout/
-<!---
-reyjoako/reyjoako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+COOL HUNTING
+Research and Ideas for business and projects.
+
+Industrial software Ideas:
+https://tulip.co/es/
+
+
+
+
+
