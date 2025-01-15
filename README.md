@@ -39,7 +39,7 @@ Research and Ideas for business and projects.
 
 Industrial software Ideas:
 https://tulip.co/es/
-
+https://tulip.co/platform/machine-kit/?no_redirect=true
 
 
 
